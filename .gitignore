@@ -1,3 +1,7 @@
+# Local IDE files
+.idea/
+
+# terraform
 .terraform/
 *.tfstate
 *.tfstate.*
